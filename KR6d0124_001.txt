@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:26.369677
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 5:25
 #+TITLE: 大王觀世音經
 #+PROPERTY: CBETA_ID F01n0016
 #+PROPERTY: ID KR6d0124
